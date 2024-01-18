@@ -1,5 +1,4 @@
-We have a Telegram channel!
-If you want to share your knowledge join:
+if you want contact me for any type of issues:
 https://t.me/Chuqol
 
 # v15.3
