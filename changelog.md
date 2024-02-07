@@ -1,12 +1,7 @@
-if you want contact me for any type of issues:
-https://t.me/Chuqol
+# v15.4
 
-# v15.3
-
-New Update ♟️
-
-- Added New fingerprint
-- Fix few bugs.
-- Device can PASS again.
-
-MODULE WON'T PROVIDE MORE FINGERPRINTS WHEN GOOGLE BAN THIS ONE.
+- Xiaomi.eu spoofing apps are now replaced correctly!
+- Fixed BUILD_ID / ID spoof code.
+- Added DEVICE_INITIAL_SDK_INT spoof support
+- New way to spoof Java fields from Zygisk.
+- Using Dobby instead ShadowHook due issues...
